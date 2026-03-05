@@ -38,6 +38,7 @@ A list of financial resources.
 * [quandl](https://quandl.com) - Quandl
 * [finbox](https://finbox.io) - Finbox
 * [collective2](https://collective2.com) - Collective2
+* [ChartScout](https://chartscout.io) - Chartscout
 
 ## Media
 
